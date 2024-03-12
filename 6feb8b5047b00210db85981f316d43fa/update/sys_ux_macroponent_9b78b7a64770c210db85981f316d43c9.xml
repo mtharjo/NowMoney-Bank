@@ -158,7 +158,37 @@
                     "elementId": "filter_1",
                     "elementLabel": "Filter 1",
                     "eventMappings": [
-                        
+                        {
+                            "eventMappingId": "cltoieggchaabbfaaddffhhqvddmqyaccy",
+                            "isConfiguration": false,
+                            "offRowStorageId": null,
+                            "sourceEventApiName": "sn_component_filte.SN_COMPONENT_FILTER#APPLIED_ITEMS",
+                            "sourceEventCorrelationId": null,
+                            "sourceEventDefinition": {
+                                "apiName": "sn_component_filte.SN_COMPONENT_FILTER#APPLIED_ITEMS",
+                                "id": null,
+                                "type": "UXEVENT"
+                            },
+                            "sourceEventSysId": null,
+                            "targets": [
+                                {
+                                    "broker": null,
+                                    "clientScript": {
+                                        "payload": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {}
+                                        },
+                                        "sysId": "e033189b47700210db85981f316d4394"
+                                    },
+                                    "conditional": null,
+                                    "declarativeAction": null,
+                                    "event": null,
+                                    "operation": null,
+                                    "targetId": "cltoieggchaabbfbbddffhhqjjiidhhjjwiif",
+                                    "type": "CLIENT_SCRIPT"
+                                }
+                            ]
+                        }
                     ],
                     "isHidden": {
                         "type": "JSON_LITERAL",
@@ -262,7 +292,7 @@
                             "value": {
                                 "code": null,
                                 "comment": "",
-                                "message": "Label"
+                                "message": "Grupos"
                             }
                         },
                         "filterProperties": {
@@ -309,7 +339,6 @@
                         {
                             "element_id": "filter_1",
                             "styles": {
-                                "align-self": "center",
                                 "margin-top": "var(--now-scalable-space--sm)"
                             }
                         }
@@ -317,6 +346,7 @@
                     "root": null,
                     "rules": null,
                     "styles": {
+                        "align-items": "center",
                         "flex-direction": "column"
                     },
                     "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
@@ -625,7 +655,7 @@
                                                     "value": {
                                                         "code": null,
                                                         "comment": "",
-                                                        "message": "Status de Solicitações de crédito"
+                                                        "message": "Solicitações de crédito - State"
                                                     }
                                                 },
                                                 "headingPosition": {
@@ -906,10 +936,7 @@
                                                 }
                                             },
                                             "slot": null,
-                                            "styles": {
-                                                "align-self": "stretch",
-                                                "height": "250px"
-                                            }
+                                            "styles": null
                                         }
                                     ],
                                     "layout": {
@@ -1186,7 +1213,7 @@
                                                     "value": {
                                                         "code": null,
                                                         "comment": "",
-                                                        "message": "Total de Solicitações de crédito"
+                                                        "message": "Solicitações de crédito - All"
                                                     }
                                                 },
                                                 "headingPosition": {
@@ -1731,7 +1758,7 @@
                                                     "value": {
                                                         "code": null,
                                                         "comment": "",
-                                                        "message": "Grupos "
+                                                        "message": "Solicitações de crédito - Groups"
                                                     }
                                                 },
                                                 "headingPosition": {
@@ -2434,7 +2461,7 @@
                                                     "value": {
                                                         "code": null,
                                                         "comment": "",
-                                                        "message": "Solicitações no status Open"
+                                                        "message": "Solicitações de crédito - Open"
                                                     }
                                                 },
                                                 "headingPosition": {
@@ -3415,10 +3442,7 @@
   "message" : "All Active Tasks",
   "comment" : ""
 }, {
-  "message" : "Grupos ",
-  "comment" : ""
-}, {
-  "message" : "Label",
+  "message" : "Grupos",
   "comment" : ""
 }, {
   "message" : "No data available.",
@@ -3427,32 +3451,46 @@
   "message" : "Solicitação de crédito",
   "comment" : ""
 }, {
-  "message" : "Solicitações no status Open",
+  "message" : "Solicitações de crédito - All",
   "comment" : ""
 }, {
-  "message" : "Status de Solicitações de crédito",
+  "message" : "Solicitações de crédito - Groups",
   "comment" : ""
 }, {
-  "message" : "Total de Solicitações de crédito",
+  "message" : "Solicitações de crédito - Open",
+  "comment" : ""
+}, {
+  "message" : "Solicitações de crédito - State",
   "comment" : ""
 } ]</required_translations>
         <root_component/>
         <root_component_config/>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
-        <state_properties/>
+        <state_properties>[
+    {
+        "fieldType": "json",
+        "initialValue": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "name": "parFilters",
+        "shape": "",
+        "valueType": "json"
+    }
+]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-10 23:45:15</sys_created_on>
         <sys_id>9b78b7a64770c210db85981f316d43c9</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
         <sys_policy/>
         <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
         <sys_update_name>sys_ux_macroponent_9b78b7a64770c210db85981f316d43c9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-12 00:44:44</sys_updated_on>
+        <sys_updated_on>2024-03-12 15:17:31</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=9b78b7a64770c210db85981f316d43c9"/>
     <sys_translated_text action="INSERT_OR_UPDATE">
