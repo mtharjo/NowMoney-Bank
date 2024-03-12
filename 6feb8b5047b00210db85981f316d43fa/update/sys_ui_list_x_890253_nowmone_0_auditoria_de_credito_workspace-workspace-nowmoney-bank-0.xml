@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_890253_nowmone_0_auditoria_de_credito" version="2" view="workspace-workspace-nowmoney-bank-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_890253_nowmone_0_auditoria_de_credito" element="NULL" name="x_890253_nowmone_0_auditoria_de_credito" parent="NULL" relationship="NULL" sys_domain="global" view="504825e286f48210395880ce1a95c5b4">0a48e5e247f48210db85981f316d43bd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 13:15:12</sys_created_on>
+            <sys_id>8248e5e247f48210db85981f316d43be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 13:15:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_890253_nowmone_0_auditoria_de_credito" element="NULL" name="x_890253_nowmone_0_auditoria_de_credito" parent="NULL" relationship="NULL" sys_domain="global" view="504825e286f48210395880ce1a95c5b4">0a48e5e247f48210db85981f316d43bd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 13:15:12</sys_created_on>
+            <sys_id>8648e5e247f48210db85981f316d43be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 13:15:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_890253_nowmone_0_auditoria_de_credito" element="NULL" name="x_890253_nowmone_0_auditoria_de_credito" parent="NULL" relationship="NULL" sys_domain="global" view="504825e286f48210395880ce1a95c5b4">0a48e5e247f48210db85981f316d43bd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 13:15:12</sys_created_on>
+            <sys_id>8a48e5e247f48210db85981f316d43be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 13:15:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_890253_nowmone_0_auditoria_de_credito" element="NULL" name="x_890253_nowmone_0_auditoria_de_credito" parent="NULL" relationship="NULL" sys_domain="global" view="504825e286f48210395880ce1a95c5b4">0a48e5e247f48210db85981f316d43bd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 13:15:12</sys_created_on>
+            <sys_id>8e48e5e247f48210db85981f316d43be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 13:15:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="x_890253_nowmone_0_auditoria_de_credito" element="NULL" name="x_890253_nowmone_0_auditoria_de_credito" parent="NULL" relationship="NULL" sys_domain="global" view="504825e286f48210395880ce1a95c5b4">0a48e5e247f48210db85981f316d43bd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 13:15:12</sys_created_on>
+            <sys_id>8248e5e247f48210db85981f316d43bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 13:15:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_890253_nowmone_0_auditoria_de_credito</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 13:15:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a48e5e247f48210db85981f316d43bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_890253_nowmone_0_auditoria_de_credito</sys_name>
+            <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+            <sys_update_name>sys_ui_list_x_890253_nowmone_0_auditoria_de_credito_workspace-workspace-nowmoney-bank-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 13:15:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Workspace NowMoney Bank 0" name="workspace-workspace-nowmoney-bank-0">504825e286f48210395880ce1a95c5b4</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

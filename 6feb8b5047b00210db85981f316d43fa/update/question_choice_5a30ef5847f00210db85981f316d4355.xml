@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Sexo">d8be931847f00210db85981f316d43f7</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 22:12:54</sys_created_on>
+        <sys_id>5a30ef5847f00210db85981f316d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Masculino</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>question_choice_5a30ef5847f00210db85981f316d4355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 22:12:54</sys_updated_on>
+        <text>Masculino</text>
+        <value>masculino</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=5a30ef5847f00210db85981f316d4355"/>
+</record_update>

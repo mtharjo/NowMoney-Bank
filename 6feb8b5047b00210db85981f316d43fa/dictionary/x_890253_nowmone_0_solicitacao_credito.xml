@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="81195b1047f00210db85981f316d4326" extends="task" label="Solicitação de crédtio" max_length="40" name="x_890253_nowmone_0_solicitacao_credito" type="collection">
+        <element label="Agência" max_length="40" name="agencia" type="string"/>
+        <element label="Conta Corrente" max_length="40" name="conta_corrente" type="string"/>
+        <element label="CPF" max_length="40" name="cpf" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Endereço" max_length="40" name="endereco" type="string"/>
+        <element label="Nome" max_length="32" name="nome" reference="sys_user" type="reference"/>
+        <element label="Quantidade de parcelas" max_length="40" name="quantidade_de_parcelas" type="string"/>
+        <element label="RG" max_length="40" name="rg" type="string"/>
+        <element label="Sexo" max_length="40" name="sexo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Masculino" language="pb" sequence="0" value="masculino"/>
+                <element inactive_on_update="false" label="Feminino" language="pb" sequence="1" value="feminino"/>
+                <element inactive_on_update="false" label="Prefiro não informar" language="pb" sequence="2" value="nao_informar"/>
+            </choice>
+        </element>
+        <element label="Telefone" max_length="40" name="telefone" type="string"/>
+        <element label="Valor do Crédito" max_length="40" name="valor_do_credito" type="string"/>
+    </element>
+</database>

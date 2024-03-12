@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="990b6fd447340210db85981f316d43f0" sys_domain="global" table="x_890253_nowmone_0_solicitacao_credito" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 23:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>190b6fd447340210db85981f316d43f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_890253_nowmone_0_solicitacao_credito" name="x_890253_nowmone_0_solicitacao_credito" sys_domain="global" view="Default view">990b6fd447340210db85981f316d43f0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_890253_nowmone_0_solicitacao_credito" sys_domain="global" view="Default view">f5195fd047700210db85981f316d43bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 23:00:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_890253_nowmone_0_solicitacao_credito</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 23:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>990b6fd447340210db85981f316d43f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_890253_nowmone_0_solicitacao_credito</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+            <sys_update_name>sys_ui_form_sections_990b6fd447340210db85981f316d43f0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 23:00:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

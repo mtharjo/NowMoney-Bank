@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Workspace NowMoney Bank">104825e288f482105dee6224fc7accbe</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 13:15:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d84825e2fef4821056a2cc31748cf3ad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>sys_ux_page_property_d84825e2fef4821056a2cc31748cf3ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 13:15:08</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_890253_nowmone_0.104825e288f482105dee6224fc7accbe.root.wbApplicabilityConfigId</unique_name>
+        <value>414865e247f48210db85981f316d43c3</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d84825e2fef4821056a2cc31748cf3ad"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d84825e2fef4821056a2cc31748cf3ad</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 13:15:08</sys_created_on>
+        <sys_id>014865e247f48210db85981f316d43c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 13:15:08</sys_updated_on>
+        <tablename>sys_ux_page_property</tablename>
+        <value>sys_ux_applicability sys_id for Workspace audience</value>
+    </sys_translated_text>
+</record_update>
