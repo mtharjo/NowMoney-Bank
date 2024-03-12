@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Workspace NowMoney Bank - Workspace Search">984825e2bcf482105a5b27e0d8293db4</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 13:15:06</sys_created_on>
+        <sys_id>584825e253f4821081f5cfb9af72cbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_584825e253f4821081f5cfb9af72cbb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 13:15:06</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

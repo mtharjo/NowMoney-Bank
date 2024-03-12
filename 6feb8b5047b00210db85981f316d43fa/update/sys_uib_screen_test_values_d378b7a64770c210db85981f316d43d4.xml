@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{}</macroponent_config>
+        <screen display_value="Default">5b78b7a64770c210db85981f316d43ce</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 23:45:15</sys_created_on>
+        <sys_id>d378b7a64770c210db85981f316d43d4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_d378b7a64770c210db85981f316d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 23:59:50</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="577b3f9847740210db85981f316d43f3" label="Auditoria de crédito" max_length="40" name="x_890253_nowmone_0_auditoria_de_credito" type="collection">
+        <element label="Nome" max_length="32" name="nome" reference="sys_user" type="reference"/>
+        <element label="Quantidade de parcelas" max_length="40" name="quantidade_de_parcelas" type="string"/>
+        <element display="true" label="Solicitação de crédito" max_length="32" name="solicitacao_de_credito" reference="x_890253_nowmone_0_solicitacao_credito" type="reference"/>
+        <element label="Valor do crédito" max_length="40" name="valor_do_credito" type="string"/>
+        <index name="index">
+            <element name="nome"/>
+        </index>
+    </element>
+</database>

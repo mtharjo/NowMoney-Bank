@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_890253_nowmone_0_workspace_nowmoney_bank_search_profile_default_spell_check_dictionary">2148a5e247f48210db85981f316d4379</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="workspace-nowmoney-bank Search Profile">5c4825e2aff48210b4b389bed16595bd</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 13:15:09</sys_created_on>
+        <sys_id>2148a5e247f48210db85981f316d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_890253_nowmone_0_workspace_nowmoney_bank_search_profile_default_spell_check_dictionary.workspace-nowmoney-bank Search Profile</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_2148a5e247f48210db85981f316d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 13:15:09</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

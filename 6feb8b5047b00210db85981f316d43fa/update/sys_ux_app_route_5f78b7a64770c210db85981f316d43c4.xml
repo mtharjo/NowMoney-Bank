@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Workspace NowMoney Bank App Config">d04825e2a6f48210273a6423e445f4be</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>NowMoney Bank Home</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>nowmoney-bank-home</route_type>
+        <screen_type display_value="NowMoney Bank Home">9378bfe24770c210db85981f316d439d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 23:45:15</sys_created_on>
+        <sys_id>5f78b7a64770c210db85981f316d43c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NowMoney Bank Home</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>sys_ux_app_route_5f78b7a64770c210db85981f316d43c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 23:45:15</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f78b7a64770c210db85981f316d43c4"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>5f78b7a64770c210db85981f316d43c4</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 23:45:15</sys_created_on>
+        <sys_id>1f78b7a64770c210db85981f316d43c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 23:45:15</sys_updated_on>
+        <tablename>sys_ux_app_route</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Solicitar Crédito">592a939047f00210db85981f316d43d0</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:47:13</sys_created_on>
+        <sys_id>965a1b9047f00210db85981f316d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Solicitar Crédito</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_965a1b9047f00210db85981f316d4387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:47:13</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</application>
+        <file_path/>
+        <instance_id>fba421931bd6b15052a243f4bd4bcb31</instance_id>
+        <instance_name>dev209703</instance_name>
+        <name>sc_cat_item_catalog_965a1b9047f00210db85981f316d4387</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitar Crédito">592a939047f00210db85981f316d43d0</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 21:47:13</sys_created_on><sys_id>965a1b9047f00210db85981f316d4387</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Solicitar Crédito</sys_name><sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package><sys_policy/><sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope><sys_update_name>sc_cat_item_catalog_965a1b9047f00210db85981f316d4387</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 21:47:13</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-259442916</payload_hash>
+        <record_name>Service Catalog.Solicitar Crédito</record_name>
+        <reverted_from/>
+        <source>7febcb5047b00210db85981f316d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:47:13</sys_created_on>
+        <sys_id>9e5a1b9047f00210db85981f316d4397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e064909f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:47:13</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>125a1b900df00210da5da2b13ca54997</update_guid>
+        <update_guid_history>125a1b900df00210da5da2b13ca54997:-259442916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Solicitar Crédito">e97adb9047f00210db85981f316d4377</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:47:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>6d610bad23e4445eb170e2c9dd0089d1</sys_id>
+        <sys_metadata>965a1b9047f00210db85981f316d4387</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Solicitar Crédito</sys_name>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_parent display_value="Solicitar Crédito">592a939047f00210db85981f316d43d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NowMoney Bank">6feb8b5047b00210db85981f316d43fa</sys_scope>
+        <sys_scope_delete display_value="">03a0d8d804d241ec9b97a6d59e299984</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_965a1b9047f00210db85981f316d4387</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_965a1b9047f00210db85981f316d4387">9e5a1b9047f00210db85981f316d4397</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:47:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">5dd3fca43c31311068bcf327dfe37f30</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:41:42</sys_created_on>
+        <sys_id>5d195b1047f00210db85981f316d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="NowMoney Bank" source="x_890253_nowmone_0">6feb8b5047b00210db85981f316d43fa</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:41:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
